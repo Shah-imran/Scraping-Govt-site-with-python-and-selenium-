@@ -1,0 +1,48 @@
+1.Survey Number
+    12
+    *
+3.Extent of Land
+Acre Gunta
+4.Revenue
+Rs. Paise
+Total Extent
+3.28.00.00
+(a)Land Revenue
+10.10
+Karab(a)
+0.00.00.00
+(b)Jodi
+0.00
+Karab(b)
+0.00.00.00
+(c)Cesses
+
+Remaining
+3.28.00.00
+(d)Water Rate
+0.00
+2.Hissa: 2/2
+Total
+10.10
+5.Soil Type
+ಕಪ್ಪು
+7.Tree Details
+8.Irrigation Details as per Extent
+Name
+Nos
+S.no
+Water source
+Kharif Ac Gun
+Rabi Ac Gun
+Garden Ac Gun
+Total Ac Gun
+6.Patta
+ಸರ್ಕಾರಿ
+
+
+
+G.L.B.C.
+0.10.00.00
+0.00.00.00
+0.00.00.00
+0.10.00.00
